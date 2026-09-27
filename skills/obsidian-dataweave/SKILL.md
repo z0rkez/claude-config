@@ -1,0 +1,1 @@
+/home/zorkez/projects/ObsidianDataWeave/SKILL.md
