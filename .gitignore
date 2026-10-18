@@ -3,6 +3,7 @@
 !/.gitignore
 !/README.md
 !/install.sh
+!/install.ps1
 !/mcp.py
 !/mcp-servers.json
 !/package.json

@@ -1,1 +1,1 @@
-/home/zorkez/projects/ObsidianDataWeave/rules/taxonomy.md
+/home/zorkez/Проекты/ObsidianDataWeave/rules/taxonomy.md

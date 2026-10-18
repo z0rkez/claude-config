@@ -21,7 +21,7 @@
   },
   "telegram": {
     "type": "stdio",
-    "command": "/home/zorkez/.local/bin/uv",
+    "command": "uv",
     "args": [
       "run",
       "--project",

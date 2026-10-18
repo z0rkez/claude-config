@@ -1,1 +1,1 @@
-/home/zorkez/projects/ObsidianDataWeave/rules/contacts.md
+/home/zorkez/Проекты/ObsidianDataWeave/rules/contacts.md

@@ -1,1 +1,1 @@
-/home/zorkez/projects/ObsidianDataWeave/rules/atomization.md
+/home/zorkez/Проекты/ObsidianDataWeave/rules/atomization.md

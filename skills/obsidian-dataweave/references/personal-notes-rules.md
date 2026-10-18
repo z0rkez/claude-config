@@ -1,1 +1,1 @@
-/home/zorkez/projects/ObsidianDataWeave/rules/personal_notes.md
+/home/zorkez/Проекты/ObsidianDataWeave/rules/personal_notes.md

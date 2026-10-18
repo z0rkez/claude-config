@@ -6,10 +6,12 @@
 """
 
 import json
+import os
 import re
 import sys
 
-HOME = r"(?:~|\$HOME|\$\{HOME\}|/home/zorkez)"
+_H = os.path.expanduser("~").replace("\\", "/")
+HOME = rf"(?:~|\$HOME|\$\{{HOME\}}|{re.escape(_H)})"
 # Цели, для которых rm -r* запрещён.
 RM_TARGETS = rf"(?:/|/\*|{HOME}/?|{HOME}/\*|/home/?|/etc/?|/usr/?|/var/?|/boot/?|/opt/?|\*|\.\.|{HOME}/Notes/?|{HOME}/\.claude/?|{HOME}/projects/?)"
 
